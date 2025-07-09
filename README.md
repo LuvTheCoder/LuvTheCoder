@@ -37,7 +37,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Luv's GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuvTheCoder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="48%" />
@@ -51,6 +51,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuvTheCoder&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&area=true&hide_border=true" width="90%" />
 </p>
+
 
 
 ### 🔗 Connect with Me
