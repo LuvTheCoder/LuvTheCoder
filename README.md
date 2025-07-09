@@ -1,8 +1,12 @@
 <h1 align="center">Hey there 👋, I'm Luv Nichat</h1>
-<h3 align="center">🧠 AI/ML Enthusiast | 👨‍💻 Web Dev Explorer | 🎯 First-Year CSE Student | ♟️ Bullet Chess Addict</h3>
+<h3 align="center">🧠 Exploring AI | ♟️ Bullet Chess Addict</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00F9FF&width=435&lines=Building+Cool+Things+With+Code!" alt="Typing SVG" />
+</p>
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=LuvTheCoder&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -48,28 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvTheCoder&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="50%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuvTheCoder&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&area=true&hide_border=true" width="90%" />
-</p>
 
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.instagram.com/_luv_nichat/" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" alt="Instagram"/>
-  </a>
-  <a href="https://twitter.com/inLuvNichat" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="X (Twitter)"/>
-  </a>
-  <a href="https://www.linkedin.com/in/luv-nichat-10463432a/" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-  </a>
-</p>
-
-
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuvTheCoder&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
