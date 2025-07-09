@@ -35,19 +35,6 @@
 </p>
 
 
-
----
-
-### 🚀 Projects
-
-| 💡 Project | 🧩 Description | 🛠️ Tech |
-|-----------|----------------|---------|
-| **PagePal** | NLP-powered book recommendation system with Flask UI | `Python`, `NLP`, `Flask`, `Scikit-Learn` |
-| **Olympics Analyzer** | Interactive dashboard showing medal tallies and more | `Pandas`, `Seaborn`, `Matplotlib`, `Streamlit` |
-| **Food Classifier** | Classifies food images into 10 categories | `TensorFlow`, `CNN`, `Keras`, `OpenCV` |
-| **Car Rental System** | Web app to book, rent, and manage cars | `PHP`, `MySQL`, `HTML`, `CSS`, `JS` |
-| **Emotion Detector** | NLP model that detects emotions from text | `TextBlob`, `VADER`, `Scikit-Learn` |
-
 ---
 
 ### 📈 GitHub Stats
