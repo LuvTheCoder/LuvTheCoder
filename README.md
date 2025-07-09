@@ -9,7 +9,7 @@
 
 ### 💡 About Me
 
-- 🔭 Currently 
+- 🔭 Currently exploring ML and Data Science — breaking stuff, fixing it, and learning a ton along the way.
 - 🌱 Learning **Machine Learning**, **Deep Learning**, **Natural Language Processing**, **Flask**, **DSA** 
 - 👨‍💻 Working on real-world projects that merge AI + Web  
 - 🎯 Ask me about **Machine Learning**, **Data Science** and **Chess**
