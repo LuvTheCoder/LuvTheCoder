@@ -56,16 +56,17 @@
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/_luv_nichat/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram"/>
+  <a href="https://www.instagram.com/_luv_nichat/" target="_blank" style="margin: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="40" alt="Instagram"/>
   </a>
-  <a href="https://twitter.com/LuvNichat" target="_blank">
+  <a href="https://twitter.com/inLuvNichat" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="X (Twitter)"/>
   </a>
-  <a href="https://www.linkedin.com/in/luv-nichat-10463432a/" target="_blank">
+  <a href="https://www.linkedin.com/in/luv-nichat-10463432a/" target="_blank" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
   </a>
 </p>
+
 
 
 ---
