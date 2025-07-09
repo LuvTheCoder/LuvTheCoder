@@ -9,10 +9,10 @@
 
 ### 💡 About Me
 
-- 🔭 Currently building **PagePal** – a smart book recommender powered by NLP  
-- 🌱 Learning **Machine Learning**, **Flask**, **TensorFlow**, **DSA**, and **Advanced SQL**  
+- 🔭 Currently 
+- 🌱 Learning **Machine Learning**, **Deep Learning**, **Natural Language Processing**, **Flask**, **DSA** 
 - 👨‍💻 Working on real-world projects that merge AI + Web  
-- 🎯 Goal: Become a world-class ML Engineer and contribute to open-source  
+- 🎯 Ask me about **Machine Learning**, **Data Science** and **Chess**
 - ♟️ Fun Fact: My bullet chess rating is over **1900** ⚔️  
 
 ---
@@ -40,21 +40,30 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuvTheCoder&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuvTheCoder&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuvTheCoder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuvTheCoder&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvTheCoder&layout=compact&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuvTheCoder&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="50%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuvTheCoder&bg_color=0d1117&color=00ffee&line=00ffee&point=ffffff&area=true&hide_border=true" width="90%" />
+</p>
 
-### 📬 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/luv-nichat" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/_luv_nichat/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/LuvNichat" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luv-nichat-10463432a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
