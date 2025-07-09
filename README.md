@@ -2,7 +2,7 @@
 <h3 align="center">🧠 AI/ML Enthusiast | 👨‍💻 Web Dev Explorer | 🎯 First-Year CSE Student | ♟️ Bullet Chess Addict</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00F9FF&width=435&lines=Aspiring+FAANG+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+Flask;Building+Cool+Things+With+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00F9FF&width=435&lines=Building+Cool+Things+With+Code!" alt="Typing SVG" />
 </p>
 
 ---
